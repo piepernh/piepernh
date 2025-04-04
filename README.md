@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @piepernh
-- 👀 I’m interested in hardware telemmetry collection, cloud monitoring, and more generally system software
-- 🌱 I’m currently learning how to write GitHub profile files
-- 💞️ I’m looking to collaborate on telemetry collection systems
-- 📫 use john.pieper@intel.com for work related topics
+- 👀 Retired from Intel, now mostly just solving puzzles
+- 📫 use john.pieper at gmail.com for work related topics
 
 <!---
 piepernh/piepernh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
